@@ -4,7 +4,7 @@ This is a custom encryption tool that allows you to encode and decode text files
 
 ## Prerequisites
 
-Make sure you have Python 3 installed on your system.
+Just python 3 | All modules used are apart of the standard library
 
 
 Usage : 
